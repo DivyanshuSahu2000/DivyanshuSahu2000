@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Divyanshu Sahu
 
-<!--
-**DivyanshuSahu2000/DivyanshuSahu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React Enthusiast  
+🎯 Aspiring Full-Stack Developer  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind CSS
+- **State Management:** Context API
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** Backend & Full-Stack Development
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **Music Player App**  
+A modern, fully responsive music player inspired by Spotify, built with React & Context API.  
+👉 Live Demo: https://d-music-player-d.netlify.app/
+
+🔹 **Anki Arts – Painting Store**  
+An e-commerce painting website with category filtering, cart functionality, and detailed artwork pages.  
+👉 Live Demo: https://ankiartsp.netlify.app/
+
+🔹 **PassWorld**  
+A secure password management web app built with modern frontend tools.  
+👉 Live Demo: https://dpassworld.netlify.app/
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/DivyanshuSahu2000
+- Portfolio: *(add when ready)*
+- LinkedIn: *(add link)*
+
+---
+
+⭐ Feel free to check out my repositories and projects!
