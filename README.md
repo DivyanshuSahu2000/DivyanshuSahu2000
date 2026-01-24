@@ -8,7 +8,7 @@
 
 ### 🛠 Tech Stack
 - **Frontend:** React, JavaScript (ES6+), HTML, CSS, Tailwind CSS
-- **State Management:** Context API
+- **State Management:** Context API, Redux tool Kit
 - **Tools:** Git, GitHub, VS Code
 - **Currently Learning:** Backend & Full-Stack Development
 
