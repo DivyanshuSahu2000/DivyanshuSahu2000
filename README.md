@@ -24,16 +24,12 @@ A modern, fully responsive music player inspired by Spotify, built with React & 
 An e-commerce painting website with category filtering, cart functionality, and detailed artwork pages.  
 👉 Live Demo: https://ankiartsp.netlify.app/
 
-🔹 **PassWorld**  
-A secure password management web app built with modern frontend tools.  
-👉 Live Demo: https://dpassworld.netlify.app/
-
 ---
 
 ### 📫 Connect With Me
-- GitHub: https://github.com/DivyanshuSahu2000
+- Gmail: sdivyanshusahu172@gmail.com
 - Portfolio: *(add when ready)*
-- LinkedIn: *(add link)*
+- LinkedIn: https://www.linkedin.com/in/divyanshu-sahu-2000sahu
 
 ---
 
