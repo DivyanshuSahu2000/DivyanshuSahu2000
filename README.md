@@ -28,7 +28,7 @@ An e-commerce painting website with category filtering, cart functionality, and 
 
 ### 📫 Connect With Me
 - Gmail: sdivyanshusahu172@gmail.com
-- Portfolio: *(add when ready)*
+- Portfolio: https://divyanshu-sahu.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/divyanshu-sahu-2000sahu
 
 ---
