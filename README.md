@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Divyanshu Sahu                               
-### 🧑 https://divyanshu-sahu.netlify.app/
+**🧑 https://divyanshu-sahu.netlify.app/**
 
 🚀 Frontend Developer | React Enthusiast  
 🎯 Aspiring Full-Stack Developer  
